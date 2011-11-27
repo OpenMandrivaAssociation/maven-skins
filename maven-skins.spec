@@ -5,7 +5,7 @@
 
 Name:           maven-skins
 Version:        5
-Release:        3
+Release:        5
 Summary:        Maven Skins
 
 Group:          Development/Java
