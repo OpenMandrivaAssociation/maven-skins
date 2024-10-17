@@ -10,7 +10,7 @@ Summary:        Maven Skins
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://maven.apache.org/skins/
+URL:            https://maven.apache.org/skins/
 # svn export http://svn.apache.org/repos/asf/maven/skins/tags/maven-skins-5
 # tar caf maven-skins-5-tar.xz maven-skins-5/
 Source0:        %{name}-%{version}.tar.xz
